@@ -4,7 +4,7 @@ Demo repository for [asantibanez/laravel-eloquent-state-machines](https://github
 
 ## Preview
 
-![preview](https://github.com/asantibanez/laravel-eloquent-state-machines/raw/master/preview.gif)
+![preview](https://github.com/asantibanez/laravel-eloquent-state-machines-demo/raw/master/preview.gif)
 
 ## Installation
 
